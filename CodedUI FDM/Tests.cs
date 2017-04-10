@@ -20,10 +20,10 @@ namespace CodedUI_FDM
     /// Summary description for CodedUITest1
     /// </summary>
     [CodedUITest]
-    public class CodedUITest1
+    public class Tests
     {
 
-        public CodedUITest1()
+        public Tests()
         {
            
         }
